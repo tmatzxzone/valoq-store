@@ -1,7 +1,0 @@
-language="python3"
-run = """
-pip install git+https://github.com/Rapptz/discord.py@master
-pip install requests
-pip install Flask
-python bot.py
-"""
