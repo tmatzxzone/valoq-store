@@ -1,4 +1,4 @@
-# Valorant store checker ON REPLIT
+# Valorant store checker ON REPLIT # OMEGALUL this is just for note
 
 [![Run on Repl.it](https://repl.it/badge/github/staciax/ValorantStoreChecker-discord-bot)](https://replit.com/github/staciax/ValorantStoreChecker-discord-bot)
 
